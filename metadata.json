@@ -1,0 +1,6 @@
+{
+  "name": "Eldercare Concierge Platform",
+  "description": "Dual-user eldercare platform connecting long-distance children and Indore field caregivers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
